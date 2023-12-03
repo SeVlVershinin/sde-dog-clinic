@@ -16,7 +16,7 @@
 - http://94.139.242.35/ - развернут на собственном виртуальный сервер
 - https://dog-clinic-uxbb.onrender.com (резервный) - развернут на render.com
 
-Образ также [развернут](https://hub.docker.com/repository/docker/sevlvershinin/sde-dog-clinic/general) на Docker Hub
+Образ также [загружен](https://hub.docker.com/repository/docker/sevlvershinin/sde-dog-clinic/general) на Docker Hub
 и может быть запущен на машине с установленным Docker c помощью команды:
 ```
  docker run -p 80:80 sevlvershinin/sde-dog-clinic
